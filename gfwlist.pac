@@ -2,7 +2,9 @@ var proxy = 'SOCKS5 192.168.1.11:1080; DIRECT;';
 var rules = [
     [
         [],
-        []
+        [
+            "javdb.com"
+        ]
     ],
     [
         [
