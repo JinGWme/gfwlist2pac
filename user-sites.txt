@@ -1,2 +1,1 @@
-.javdb.com
-||javdb.com
+javdb.com
