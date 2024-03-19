@@ -2,8 +2,10 @@ name: Auto update
 
 on:
   schedule:
-    - cron: '14 * * * *'
-  workflow_dispatch:
+    - cron: '43 21 * * *'
+  push:
+    branches:
+      - main
 
 jobs:
   update:
