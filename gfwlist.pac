@@ -3,6 +3,7 @@ var rules = [
     [
         [],
         [
+            "frostsky.com",
             "javdb.com"
         ]
     ],
