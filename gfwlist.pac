@@ -4,7 +4,8 @@ var rules = [
         [],
         [
             "frostsky.com",
-            "javdb.com"
+            "javdb.com",
+            "perplexity.ai"
         ]
     ],
     [
