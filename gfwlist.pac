@@ -3,9 +3,12 @@ var rules = [
     [
         [],
         [
+            "devv.ai",
+            "forefront.ai",
             "frostsky.com",
             "javdb.com",
-            "perplexity.ai"
+            "perplexity.ai",
+            "phind.com"
         ]
     ],
     [
