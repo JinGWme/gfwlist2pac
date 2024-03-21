@@ -7,6 +7,7 @@ var rules = [
             "forefront.ai",
             "frostsky.com",
             "javdb.com",
+            "jsoap.org",
             "perplexity.ai",
             "phind.com"
         ]
