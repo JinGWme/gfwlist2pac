@@ -2,5 +2,6 @@ devv.ai
 forefront.ai
 ice.frostsky.com
 javdb.com
+jsoap.org
 perplexity.ai
 phind.com
