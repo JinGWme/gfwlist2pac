@@ -2,8 +2,7 @@ devv.ai
 forefront.ai
 ice.frostsky.com
 javdb.com
-jdbstatic.com 
 jsoap.org
 perplexity.ai
 phind.com
-tpdfiles.com 
+tpdfiles.com
