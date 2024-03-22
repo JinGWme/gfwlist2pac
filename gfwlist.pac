@@ -9,7 +9,8 @@ var rules = [
             "javdb.com",
             "jsoap.org",
             "perplexity.ai",
-            "phind.com"
+            "phind.com",
+            "tpdfiles.com"
         ]
     ],
     [
