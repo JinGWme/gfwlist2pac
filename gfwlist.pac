@@ -12,7 +12,6 @@ var rules = [
             "msecnd.net",
             "perplexity.ai",
             "phind.com",
-            "qpic.ws",
             "tpdfiles.com"
         ]
     ],
