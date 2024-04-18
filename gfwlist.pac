@@ -3,6 +3,7 @@ var rules = [
     [
         [],
         [
+            "contrastsecurity.com",
             "devv.ai",
             "forefront.ai",
             "frostsky.com",
