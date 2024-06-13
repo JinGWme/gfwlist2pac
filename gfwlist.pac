@@ -11,6 +11,7 @@ var rules = [
             "javdb.com",
             "jdbstatic.com",
             "jsoap.org",
+            "jstree.com",
             "msecnd.net",
             "perplexity.ai",
             "phind.com",
