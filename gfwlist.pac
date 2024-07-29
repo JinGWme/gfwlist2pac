@@ -1,4 +1,4 @@
-var proxy = 'SOCKS5 192.168.1.11:1080; PROXY 192.168.1.11:8080; DIRECT;';
+var proxy = 'PROXY 192.168.1.11:8080; SOCKS5 192.168.1.11:1080; DIRECT;';
 var rules = [
     [
         [],
@@ -521,6 +521,7 @@ var rules = [
             "axureformac.com",
             "azerbaycan.tv",
             "azerimix.com",
+            "azirevpn.com",
             "azubu.tv",
             "azurewebsites.net",
             "b-ok.cc",
@@ -1074,6 +1075,7 @@ var rules = [
             "clubhouseapi.com",
             "clyp.it",
             "cmcn.org",
+            "cmegroup.com",
             "cmi.org.tw",
             "cmoinc.org",
             "cms.gov",
@@ -2760,6 +2762,7 @@ var rules = [
             "imageab.com",
             "imagefap.com",
             "imageflea.com",
+            "imageglass.org",
             "images-gaytube.com",
             "imageshack.us",
             "imagevenue.com",
