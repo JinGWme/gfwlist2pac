@@ -17,6 +17,7 @@ var rules = [
             "perplexity.ai",
             "phind.com",
             "reddit.com",
+            "sre.google",
             "tpdfiles.com"
         ]
     ],
