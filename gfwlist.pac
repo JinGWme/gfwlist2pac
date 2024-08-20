@@ -13,6 +13,8 @@ var rules = [
             "jdbstatic.com",
             "jsoap.org",
             "jstree.com",
+            "kasandbox.org",
+            "kastatic.org",
             "msecnd.net",
             "perplexity.ai",
             "phind.com",
