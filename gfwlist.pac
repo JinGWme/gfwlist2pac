@@ -15,6 +15,7 @@ var rules = [
             "jstree.com",
             "kasandbox.org",
             "kastatic.org",
+            "keychron.com",
             "msecnd.net",
             "perplexity.ai",
             "phind.com",
