@@ -21,6 +21,7 @@ var rules = [
             "phind.com",
             "reddit.com",
             "sre.google",
+            "theguardian.com",
             "tpdfiles.com"
         ]
     ],
