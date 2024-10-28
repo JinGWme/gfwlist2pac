@@ -1,3 +1,4 @@
+console.cloud.google.com
 b-cdn.net
 contrastsecurity.com
 devv.ai
@@ -8,6 +9,7 @@ javdb.com
 jdbstatic.com
 jsoap.org
 jstree.com
+justmysocks.net
 kasandbox.org
 kastatic.org
 keychron.com
