@@ -24,7 +24,8 @@ var rules = [
             "reddit.com",
             "sre.google",
             "theguardian.com",
-            "tpdfiles.com"
+            "tpdfiles.com",
+            "wiktionary.org"
         ]
     ],
     [
