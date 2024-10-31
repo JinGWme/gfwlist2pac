@@ -20,3 +20,4 @@ reddit.com
 sre.google
 theguardian.com
 tpdfiles.com
+wiktionary.org
