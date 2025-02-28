@@ -787,6 +787,7 @@ var rules = [
             "brucewang.net",
             "brutaltgp.com",
             "bsky.app",
+            "bsky.network",
             "bsky.social",
             "bt95.com",
             "btaia.com",
