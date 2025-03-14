@@ -1804,7 +1804,6 @@ var rules = [
             "fartit.com",
             "farwestchina.com",
             "fastestvpn.com",
-            "fastgpt.run",
             "fastpic.ru",
             "fastssh.com",
             "faststone.org",
