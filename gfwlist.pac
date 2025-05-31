@@ -712,6 +712,7 @@ var rules = [
             "bl-doujinsouko.com",
             "blacked.com",
             "blacklogic.com",
+            "blackmagicdesign.com",
             "blackvpn.com",
             "blewpass.com",
             "blingblingsquad.net",
