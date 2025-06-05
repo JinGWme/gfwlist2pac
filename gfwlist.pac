@@ -1,4 +1,4 @@
-var proxy = 'SOCKS5 192.168.1.12:1080; DIRECT;';
+var proxy = 'SOCKS5 192.168.1.12:1080; SOCKS 192.168.1.12:1080; PROXY 192.168.1.12:1080; DIRECT;';
 var rules = [
     [
         [],
@@ -1186,6 +1186,7 @@ var rules = [
             "codeshare.io",
             "codeskulptor.org",
             "cofacts.tw",
+            "coffeemanga.to",
             "coin2co.in",
             "coinbase.com",
             "coinbene.com",
