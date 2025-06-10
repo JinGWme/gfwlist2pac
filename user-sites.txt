@@ -11,6 +11,7 @@ jsoap.org
 jstree.com
 justmysocks.net
 kasandbox.org
+kagi.com
 kastatic.org
 keychron.com
 msecnd.net
