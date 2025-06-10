@@ -15,6 +15,7 @@ var rules = [
             "jsoap.org",
             "jstree.com",
             "justmysocks.net",
+            "kagi.com",
             "kasandbox.org",
             "kastatic.org",
             "keychron.com",
