@@ -19,6 +19,7 @@ var rules = [
             "kasandbox.org",
             "kastatic.org",
             "keychron.com",
+            "linux.do",
             "msecnd.net",
             "perplexity.ai",
             "phind.com",
