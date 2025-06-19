@@ -1747,6 +1747,7 @@ var rules = [
             "fofg.org",
             "foolsmountain.com",
             "fooooo.com",
+            "forbes.com",
             "foreignaffairs.com",
             "foreignpolicy.com",
             "form.new",
