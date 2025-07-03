@@ -1349,6 +1349,7 @@ var rules = [
             "dongyangjing.com",
             "donmai.us",
             "dontfilter.us",
+            "doom9.org",
             "doosho.com",
             "doourbest.org",
             "dorjeshugden.com",
