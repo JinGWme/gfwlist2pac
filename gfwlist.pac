@@ -5613,6 +5613,7 @@ var rules = [
             "xiaoma.org",
             "xiaomi.eu",
             "xiaxiaoqiang.net",
+            "xicons.org",
             "xiezhua.com",
             "xihua.es",
             "xinbao.de",
