@@ -1370,7 +1370,6 @@ var rules = [
             "dougscripts.com",
             "doujincafe.com",
             "dowjones.com",
-            "dpdns.org",
             "dphk.org",
             "dpool.top",
             "dpp.org.tw",
