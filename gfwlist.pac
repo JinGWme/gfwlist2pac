@@ -2719,6 +2719,7 @@ var rules = [
             "iphonetaiwan.org",
             "iphonix.fr",
             "ipicture.ru",
+            "ipify.org",
             "ipjetable.net",
             "ipobar.com",
             "ipoock.com",
