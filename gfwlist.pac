@@ -240,6 +240,7 @@ var rules = [
             "91vps.club",
             "92ccav.com",
             "991.com",
+            "996.icu",
             "99btgc01.com",
             "99cn.info",
             "9bis.com",
