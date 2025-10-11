@@ -1802,6 +1802,8 @@ var rules = [
             "freedomsherald.org",
             "freeforums.org",
             "freegao.com",
+            "freegpt.es",
+            "freegpt.tech",
             "freehongkong.org",
             "freeilhamtohti.org",
             "freekazakhs.org",
