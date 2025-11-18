@@ -304,6 +304,7 @@ var rules = [
             "agnesb.fr",
             "agoogleaday.com",
             "agro.hk",
+            "ai.dev",
             "aiosearch.com",
             "aiph.net",
             "airasia.com",
