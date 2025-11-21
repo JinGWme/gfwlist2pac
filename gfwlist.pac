@@ -3165,7 +3165,6 @@ var rules = [
             "lzjscript.com",
             "lzmtnews.org",
             "m-sport.co.uk",
-            "m-team.cc",
             "m.me",
             "macgamestore.com",
             "macrovpn.com",
