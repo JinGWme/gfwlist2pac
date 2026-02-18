@@ -34,7 +34,6 @@ var rules = [
         [
             "clientservices.googleapis.com",
             "fonts.googleapis.com",
-            "gvt1.com",
             "imasdk.googleapis.com",
             "safebrowsing.googleapis.com",
             "update.googleapis.com",
@@ -1657,6 +1656,7 @@ var rules = [
             "gutteruncensored.com",
             "gvlib.com",
             "gvm.com.tw",
+            "gvt1.com",
             "gvt3.com",
             "gwins.org",
             "gwtproject.org",
@@ -2346,6 +2346,7 @@ var rules = [
             "moresci.sale",
             "morningsun.org",
             "mos.ru",
+            "mosavi.io",
             "motherless.com",
             "movements.org",
             "moviefap.com",
