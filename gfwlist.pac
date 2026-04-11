@@ -3640,6 +3640,7 @@ var rules = [
             "unmineable.com",
             "unseen.is",
             "unstable.icu",
+            "unun.dev",
             "unwire.hk",
             "uocn.org",
             "up.audio",
