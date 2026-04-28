@@ -3647,6 +3647,7 @@ var rules = [
             "upmedia.mg",
             "upornia.com",
             "uproxy.org",
+            "upsangel.com",
             "uptodown.com",
             "uraban.me",
             "urbandictionary.com",
