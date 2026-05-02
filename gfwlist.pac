@@ -3128,6 +3128,7 @@ var rules = [
             "sockslist.net",
             "socrec.org",
             "softether-download.com",
+            "softether.co.jp",
             "softether.org",
             "softfamous.com",
             "softlayer.net",
