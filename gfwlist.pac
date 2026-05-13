@@ -680,6 +680,7 @@ var rules = [
             "chingcheong.com",
             "chinman.net",
             "chobit.cc",
+            "chonglangtv.org",
             "chosun.com",
             "chrdnet.com",
             "christianfreedom.org",
