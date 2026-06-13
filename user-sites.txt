@@ -1,5 +1,6 @@
-console.cloud.google.com
 b-cdn.net
+chatgpt.com
+console.cloud.google.com
 contrastsecurity.com
 devv.ai
 forefront.ai
@@ -10,12 +11,13 @@ jdbstatic.com
 jsoap.org
 jstree.com
 justmysocks.net
-kasandbox.org
 kagi.com
+kasandbox.org
 kastatic.org
 keychron.com
 linux.do
 msecnd.net
+openai.com
 perplexity.ai
 phind.com
 reddit.com
