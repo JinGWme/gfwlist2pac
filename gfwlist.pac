@@ -4,6 +4,7 @@ var rules = [
         [],
         [
             "b-cdn.net",
+            "chatgpt.com",
             "contrastsecurity.com",
             "devv.ai",
             "forefront.ai",
@@ -21,6 +22,7 @@ var rules = [
             "keychron.com",
             "linux.do",
             "msecnd.net",
+            "openai.com",
             "perplexity.ai",
             "phind.com",
             "reddit.com",
