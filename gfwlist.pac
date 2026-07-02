@@ -3948,6 +3948,7 @@ var rules = [
             "webpkgcache.com",
             "webrtc.org",
             "websdr.org",
+            "webshare.io",
             "website.new",
             "websnapr.com",
             "webwarper.net",
