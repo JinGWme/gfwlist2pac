@@ -2619,6 +2619,7 @@ var rules = [
             "ntdtv.com",
             "ntdtv.com.tw",
             "ntdtv.cz",
+            "nthlink.com",
             "ntu.edu.tw",
             "nu.nl",
             "nuexpo.com",
