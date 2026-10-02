@@ -3952,6 +3952,7 @@ var rules = [
             "wainao.me",
             "walletconnect.com",
             "walletconnect.org",
+            "wallhaven.cc",
             "wallmama.com",
             "wallpapercasa.com",
             "wallsttv.com",
