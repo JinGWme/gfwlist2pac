@@ -3122,6 +3122,7 @@ var rules = [
             "safechat.com",
             "safeguarddefenders.com",
             "safervpn.com",
+            "sagernet.org",
             "saintyculture.com",
             "sakuralive.com",
             "salvation.org.hk",
